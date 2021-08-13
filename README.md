@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @redhobe
 - 👀 I’m interested in frontend development
 - 🌱 I’m learning JS, VUE, VUEX and intrested in other webdev technologies.
-- 📁 In this git i'm currently store my personal projects and job interview test tasks.
+- 📁 In this git i'm currently store my personal projects and job interview tasks.
 
 <!---
 redhobe/redhobe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
