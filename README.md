@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @redhobe
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning JS, VUE, VUEX and other webdev technologies.
+- 🌱 I’m learning JS, VUE, VUEX and intrested in other webdev technologies.
 - 📁 In this git i'm currently store my personal projects and job interview test tasks.
 
 <!---
