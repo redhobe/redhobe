@@ -1,3 +1,4 @@
+<img src="https://github.com/redhobe/redhobe/blob/921e78e10c875aeb8d1e0ae40568e4e1b68189e2/github-header.jpg">
 - 👋 Hi, I’m @redhobe
 - 👀 I’m interested in frontend development
 - 🌱 I’m learning JS, VUE, VUEX and intrested in other webdev technologies.
